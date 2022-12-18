@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Chehrona
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on all aspects of building web applications
-- 📫 How to reach me chehronaifozil@gmail.com
+- 💻 chehronafozil.com
